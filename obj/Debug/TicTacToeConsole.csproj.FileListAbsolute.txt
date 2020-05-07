@@ -1,0 +1,10 @@
+D:\dotnet_workspace\TicTacToeConsole\obj\Debug\TicTacToeConsole.csprojAssemblyReference.cache
+D:\dotnet_workspace\TicTacToeConsole\obj\Debug\TicTacToeConsole.csproj.CoreCompileInputs.cache
+D:\dotnet_workspace\TicTacToeConsole\bin\Debug\TicTacToeConsole.exe.config
+D:\dotnet_workspace\TicTacToeConsole\bin\Debug\TicTacToeConsole.exe
+D:\dotnet_workspace\TicTacToeConsole\bin\Debug\TicTacToeConsole.pdb
+D:\dotnet_workspace\TicTacToeConsole\bin\Debug\TicTacToeEngine.dll
+D:\dotnet_workspace\TicTacToeConsole\bin\Debug\TicTacToeEngine.pdb
+D:\dotnet_workspace\TicTacToeConsole\obj\Debug\TicTacToeConsole.csproj.CopyComplete
+D:\dotnet_workspace\TicTacToeConsole\obj\Debug\TicTacToeConsole.exe
+D:\dotnet_workspace\TicTacToeConsole\obj\Debug\TicTacToeConsole.pdb
